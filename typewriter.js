@@ -9,3 +9,5 @@ for (let char of sentence) {
   runTime += 50;
 };
 
+// Other method is to do a C style loop, and write an if statement (if i equals to sentence.length -1, console.log blah)
+
